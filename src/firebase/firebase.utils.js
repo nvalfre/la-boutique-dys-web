@@ -3,15 +3,16 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyC22HW1Dze1bJtcFxHV6Q5O16pPD6JeVS8",
-    authDomain: "la-boutique-ays-app.firebaseapp.com",
-    projectId: "la-boutique-ays-app",
-    databaseURL: 'https://la-boutique-ays-app.firebaseio.com',
-    storageBucket: "la-boutique-ays-app.appspot.com",
-    messagingSenderId: "989577719184",
-    appId: "1:989577719184:web:0a342da0741e35252d9715",
-    measurementId: "G-36KFHGZBM1"
+    apiKey: "AIzaSyD1fQzsqfhjU8RgAVp3xEG09ZVp4ZuTGdU",
+    authDomain: "lb-dys.firebaseapp.com",
+    projectId: "lb-dys",
+    databaseURL: 'https://lb-dys.firebaseio.com',
+    storageBucket: "lb-dys.appspot.com",
+    messagingSenderId: "1049377018306",
+    appId: "1:1049377018306:web:f51737491aa5069d0a465b",
+    measurementId: "G-62EMQFZ0DX"
 };
+
 
 
 // Initialize Firebase
